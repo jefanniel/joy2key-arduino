@@ -3,3 +3,5 @@ This code particularly controls the arrow keys and the space bar, based on typic
 <br>
 Install the keyboard module <br>
 `pip install keyboard`
+
+## Wiring Diagram (COMING)
