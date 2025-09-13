@@ -4,4 +4,5 @@ This code particularly controls the arrow keys and the space bar, based on typic
 Install the keyboard module <br>
 `pip install keyboard`
 
-## Wiring Diagram (COMING)
+## Wiring Diagram
+<img width="1509" height="810" alt="Image" src="https://github.com/user-attachments/assets/16f9407d-b485-4182-af43-1184c946bb42" />
